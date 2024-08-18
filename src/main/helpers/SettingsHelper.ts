@@ -10,7 +10,7 @@ export class SettingsHelper {
             dir: StorageHelper.storageDir,
             autoConnect: false,
             fullScreen: false,
-            memory: 1024,
+            memory: 3072,
             startDebug: false,
         };
     }

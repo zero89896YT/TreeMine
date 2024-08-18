@@ -7,7 +7,7 @@ export const window = {
     resizable: false,
     maximizable: false,
     fullscreenable: false,
-    title: 'Aurora Launcher',
+    title: 'TreeMine Launcher',
 };
 
 export const api = {
@@ -16,10 +16,10 @@ export const api = {
     publicKey,
 };
 
-export const appPath = '.aurora-launcher';
+export const appPath = '.treemine-launcher';
 
 export const discordRPC = {
-    appId: '1214685301793103902',
+    appId: '1',
     default: {
         firstLineText: 'Тестирую лаунчер',
         secondLineText: 'Чувак, ты думал здесь что-то будет?',
